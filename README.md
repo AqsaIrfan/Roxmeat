@@ -23,7 +23,7 @@ Modern, responsive, and packed with features like online ordering, recipe discov
 
 ## 📸 Preview
 
-> ![Roxmeat Website Preview](src/assets/RoxmeatLandingPagePreview.png.png)
+> ![Roxmeat Website Preview](src/assets/RoxmeatLandingPagePreview.png)
 
 ---
 
